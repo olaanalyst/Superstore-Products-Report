@@ -121,13 +121,3 @@ response,
 complain
 FROM 
 superstore.superstore;
-
-
-
-
-
-
-
-
-    
-
