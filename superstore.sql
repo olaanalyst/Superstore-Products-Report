@@ -133,5 +133,11 @@ FROM
     superstore.superstore
 GROUP BY dt_customer
 ORDER BY dt_customer;
-    
+
+SELECT 
+marital_status,
+COUNT(*) AS marital_counts
+FROM
+ superstore.superstore
+GROUP BY marital_status;
 
