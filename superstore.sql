@@ -113,7 +113,7 @@ For each customer's ID , this query retrieves
 - number of response and complain.
 */ 
 
-SELECT DISTINCT
+SELECT 
 id,
 numwebpurchases,
 numwebvisitsmonth,
