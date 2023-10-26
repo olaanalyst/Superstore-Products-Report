@@ -120,4 +120,18 @@ numwebvisitsmonth,
 response,
 complain
 FROM 
-superstore.superstore;
+    superstore.superstore;
+
+
+    /* 
+    This query counts the number of customer 
+    registered on each unique date.
+    */
+    SELECT 
+    dt_customer, COUNT(*) AS customer_count
+FROM
+    superstore.superstore
+GROUP BY dt_customer
+ORDER BY dt_customer;
+    
+
