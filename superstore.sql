@@ -29,6 +29,7 @@ GROUP BY kidhome , teenhome;
    -Total sweet quantity
    -Total gold quantity
    */
+
 SELECT 
     id,
     SUM(mntwines) AS total_wine,
