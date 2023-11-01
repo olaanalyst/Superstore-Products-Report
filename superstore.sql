@@ -1,14 +1,14 @@
---select table query:
+-- Select table query:
 SELECT 
     *
 FROM
     superstore.superstore;
 
---Dropped marital status column because it is no longer needed
+-- Dropped marital status column because it is no longer needed?
  ALTER TABLE  superstore.superstore
    DROP COLUMN Marital_status;
 
---Select ID, year_birth and Education where the birth year is greater than or equal to 1970    
+-- Select ID, year_birth and Education where the birth year is greater than or equal to 1970?    
 SELECT 
     id, year_birth, education
 FROM
@@ -16,7 +16,7 @@ FROM
 WHERE
     year_birth >= 1970;
 
---Retrieve customer_id, the number of kid at home, and the numberof teenagers at home  
+-- Retrieve customer_id, the number of kid at home, and the numberof teenagers at home?  
 SELECT 
     kidhome,
     teenhome
@@ -32,7 +32,7 @@ FROM
    -Total fish quantity
    -Total sweet quantity
    -Total gold quantity
-Group by customer id , Order id in Descending order
+Group by customer id , Order id in Descending order?
    */
 SELECT 
     id,
@@ -49,7 +49,7 @@ ORDER BY id DESC;
 
 /*
 select customer id and education, filtering for graduates and PhDs,
-order in descending order, and retrieve the top 1,000 rows
+order in descending order, and retrieve the top 1,000 rows?
 */
         SELECT 
     id, education
@@ -66,7 +66,7 @@ WHERE
   Group by customer ID, Education and income
   Filter rows where income is greater thann or equal to $1,500
   Order by income in descending order
-  Limit the result to 1500 rows
+  Limit the result to 1500 rows?
   */
     SELECT 
     id, education, income
@@ -84,7 +84,7 @@ LIMIT 1500;
     /*
      For each customer's ID, This query retrieve the numbers of purchases made with discount, 
     numbers of purchases made with catalog (buying goods to be shipped through the mail),
-    numbers of purchases made directly in store.
+    numbers of purchases made directly in store?
     */
       SELECT 
     id,
@@ -105,19 +105,18 @@ This query retrieves the following customer's information:
   - customer date of enrollment with the store(dt_customer)
   - customer number of days (recency)
   Additionally this query order the results by the highest total purchase
-  for each customer and limits of 1000 customers
+  for each customer and limits of 1000 customers?
   */
     SELECT 
     id,
     year_birth,
-    marital_status,
     income,
     dt_customer,
     recency,
     SUM(mntwines + mntfruits + mntmeatproducts + mntfishproducts + mntsweetproducts + mntgoldprods) AS total_purchase
 FROM
     superstore.superstore
-GROUP BY id , year_birth , marital_status , income , dt_customer , recency
+GROUP BY id , year_birth , income , dt_customer , recency
 ORDER BY SUM(mntwines + mntfruits + mntmeatproducts + mntfishproducts + mntsweetproducts + mntgoldprods) DESC
 LIMIT 1000;
 
@@ -125,7 +124,7 @@ LIMIT 1000;
 For each customer's ID , this query retrieves
 -number of purchases made through the store website(numwebpurchases)
 -number of visit to the store website in the last month(numwebvisitsmonth)
-- number of response and complain.
+- number of response and complain?
 */ 
 SELECT 
 id,
@@ -136,10 +135,9 @@ complain
 FROM 
     superstore.superstore;
 
-
     /* 
     This query counts the number of customer 
-    registered on each unique date.
+    registered on each unique date?
     */
     SELECT 
     dt_customer, COUNT(*) AS customer_count
