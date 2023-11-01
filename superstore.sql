@@ -3,6 +3,7 @@ SELECT
     *
 FROM
     superstore.superstore;
+
 --Dropped marital status column because it is no longer needed
  ALTER TABLE  superstore.superstore
    DROP COLUMN Marital_status;
@@ -33,7 +34,6 @@ FROM
    -Total gold quantity
 Group by customer id , Order id in Descending order
    */
-
 SELECT 
     id,
     SUM(mntwines) AS total_wine,
@@ -49,7 +49,7 @@ ORDER BY id DESC;
 
 /*
 select customer id and education, filtering for graduates and PhDs,
-order in descending order, and retrieve the top 1,000 records
+order in descending order, and retrieve the top 1,000 rows
 */
         SELECT 
     id, education
@@ -59,7 +59,15 @@ WHERE
     education IN ('Graduation', 'PhD')
     ORDER BY id DESC
     LIMIT 1000;
-    
+
+  /*
+  Select customer ID, Education and income , UNION it with customer ID, Education
+  and income
+  Group by customer ID, Education and income
+  Filter rows where income is greater thann or equal to $1,500
+  Order by income in descending order
+  Limit the result to 1500 rows
+  */
     SELECT 
     id, education, income
 FROM
@@ -78,8 +86,7 @@ LIMIT 1500;
     numbers of purchases made with catalog (buying goods to be shipped through the mail),
     numbers of purchases made directly in store.
     */
-     
-     SELECT 
+      SELECT 
     id,
     COUNT(numdealspurchases) AS purchases_with_discount,
     COUNT(numcatalogpurchases) AS purchases_with_catalog,
@@ -100,8 +107,7 @@ This query retrieves the following customer's information:
   Additionally this query order the results by the highest total purchase
   for each customer and limits of 1000 customers
   */
-    
-SELECT 
+    SELECT 
     id,
     year_birth,
     marital_status,
@@ -121,7 +127,6 @@ For each customer's ID , this query retrieves
 -number of visit to the store website in the last month(numwebvisitsmonth)
 - number of response and complain.
 */ 
-
 SELECT 
 id,
 numwebpurchases,
@@ -142,11 +147,3 @@ FROM
     superstore.superstore
 GROUP BY dt_customer
 ORDER BY dt_customer;
-
-SELECT 
-marital_status,
-COUNT(*) AS marital_counts
-FROM
- superstore.superstore
-GROUP BY marital_status;
-
