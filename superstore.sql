@@ -1,26 +1,26 @@
+--select table query:
 SELECT 
     *
 FROM
     superstore.superstore;
-
+--Dropped marital status column because it is no longer needed
  ALTER TABLE  superstore.superstore
-    DROP COLUMN Marital_status;
-    
+   DROP COLUMN Marital_status;
+
+--Select ID, year_birth and Education where the birth year is greater than or equal to 1970    
 SELECT 
     id, year_birth, education
 FROM
     superstore.superstore
 WHERE
     year_birth >= 1970;
-    
+
+--Retrieve customer_id, the number of kid at home, and the numberof teenagers at home  
 SELECT 
     kidhome,
-    teenhome,
-    COUNT(kidhome) AS kid_count,
-    COUNT(teenhome) AS teen_count
+    teenhome
 FROM
-    superstore.superstore
-GROUP BY kidhome , teenhome;
+    superstore.superstore;
 
 /*
  For each customer's ID, this query calculate the total
@@ -31,6 +31,7 @@ GROUP BY kidhome , teenhome;
    -Total fish quantity
    -Total sweet quantity
    -Total gold quantity
+Group by customer id , Order id in Descending order
    */
 
 SELECT 
@@ -46,6 +47,10 @@ FROM
 GROUP BY id
 ORDER BY id DESC;
 
+/*
+select customer id and education, filtering for graduates and PhDs,
+order in descending order, and retrieve the top 1,000 records
+*/
         SELECT 
     id, education
 FROM
