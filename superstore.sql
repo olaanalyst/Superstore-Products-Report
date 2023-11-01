@@ -2,9 +2,12 @@ SELECT
     *
 FROM
     superstore.superstore;
+
+ ALTER TABLE  superstore.superstore
+    DROP COLUMN Marital_status;
     
 SELECT 
-    id, year_birth, education, marital_status
+    id, year_birth, education
 FROM
     superstore.superstore
 WHERE
