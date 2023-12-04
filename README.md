@@ -37,7 +37,7 @@ The total revenue for all the products from jan-2022 to dec-2022 is $1,356,988. 
 - Total sales for fruit products: 58,917
 - Total sales for gold products: 98,609
 - Total sales for meat products: 373,968
-- Total sales for sweet products: 6o,621
+- Total sales for sweet products: 60,621
 - Total sales for wines products: 680,816
 They sell online and they also sell from store.
 
