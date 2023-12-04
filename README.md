@@ -26,7 +26,7 @@ To carry out this project a series of steps must be carried out in order to inte
 ## Data Visualization Dashboard 
 Creating a data visualization dashboard involves selecting relevant metrics and designing a user-friendly interface.
 
-![Screenshot (11)](https://github.com/olaanalyst/Exploratory-Data-Analysis-with-SQL/assets/141564936/b2355519-d6e2-4098-acbe-f3c766d3e4b8)
+![Screenshot (35)](https://github.com/olaanalyst/Superstore-Sales-Report/assets/141564936/e3d0c8f1-d44a-4b1f-8579-4a7971324430)
 
 ## Insights
 To gain a comprehensive understanding for each products performances, i've employed different chart and graphs to represent each products.
