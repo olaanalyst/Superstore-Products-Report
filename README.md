@@ -1,4 +1,4 @@
-# Exploratory Data Analysis with SQL 
+## Superstore Sales Report
 In the context of this particular project, i meticulously undertook the task of conducting an extensive exploratory data analysis on the dataset about superstore sales. 
 # check TABLEAU PUBLIC for visualization (https://public.tableau.com/app/profile/komolafe.oladayo)
 
