@@ -11,3 +11,4 @@ The data used in the project was obtained from kaggle.com.
 ![Screenshot (12)](https://github.com/olaanalyst/Superstore-Sales-Report/assets/141564936/fbd74945-8720-40ef-b7aa-3b972c192c3d)
 ![Screenshot (13)](https://github.com/olaanalyst/Superstore-Sales-Report/assets/141564936/a19753a9-8a40-4dbb-8d77-80144dc3ba30)
 ![Screenshot (16)](https://github.com/olaanalyst/Superstore-Sales-Report/assets/141564936/7766a4bb-1dd4-4aa4-9ec6-6ce395f16680)
+![Screenshot (15)](https://github.com/olaanalyst/Superstore-Sales-Report/assets/141564936/9446c390-3094-472e-aaf7-4feb0b8de086)
