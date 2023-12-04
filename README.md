@@ -41,7 +41,7 @@ The total revenue for all the products from jan-2022 to dec-2022 is $1,356,988. 
 - Total sales for wines products: 680,816
 They sell online and they also sell from store.
 
-![Screenshot (33)](https://github.com/olaanalyst/Superstore-Sales-Report/assets/141564936/0f6db3c6-a1e4-4cc2-b474-4ecb6a99733f)
+![Screenshot (34)](https://github.com/olaanalyst/Superstore-Sales-Report/assets/141564936/2821b46d-e81a-4fd2-90f4-d0e4e33a831b)
 
 ## Fish products
  
