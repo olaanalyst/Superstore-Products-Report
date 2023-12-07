@@ -52,7 +52,7 @@ The performance analysis of fruit products in the superestore's dashboard unveil
 Feb with sales number of 2,338, May with sales number of 2,150, Jan with sales number of 1,938, Jun with sales number of 1,335, Apr with sales number of 1,321, Mar with sales number of 1,156, Dec with sales number of 1,063, Jul with sales number of 753, Oct with sales number of 225, Nov with saales number of 206, Sept with sales number of 202, Aug with sales number of 160. 
 Analyzing the performance of sweet products in the superstore's dashboard reveals varying monthly sales. February leads with 2,338 units, while August has the lowest at 160. NOtably, there's a decline in sales during the summer months (June to August), with a subsequent rise in september. The consistent performance from Octomber to December suggests potential opportunities for targeted marketing or seasonal promotions during the holiday period. Understanding these trends provides valuable insights for optimizing inventory and sales strategies.   
 
-
+![Screenshot (16)](https://github.com/olaanalyst/Superstore-Products-Report/assets/141564936/405aabc5-8fd4-417a-977f-a4976ea181d9)
 
 ## Gold and Meat products performance (Dual line chart)
 For Gold Products Performance (blue line)
@@ -61,10 +61,10 @@ For Meat Product Performance (yellow line)
 Jan with sales number of 13,519 units, Feb with sales number of 11,341 units, Mar with sales number of 7,602 units, Apr with sales number of 8,620 units, May with sales number of 12,697 units, Jun with sales number of 85,444 units, Jul with sales numbers of 3,887 units, Aug with sales number of 1,743 units, Sept with sales number of 1,848 units, Oct with sales number of 2,928 units, Nov with sales number of 1,773 units, Dec with sales number of 5,061 units.
 Examining the double line chart depicting the performance of gold and meat products unveils interesting patterns. Meat products consistently dominate, starting with a substantial lead in January (13,519 units). Throughout the year, Meat products maintains higher sales, with fluctuations in both categories. The peak for gold products occurs in May (2,550 units), while meat products peak in January. Understanding these dynamics can guide strategic decisions, balancing inventory and capitalizing on the strengths of each product categories. 
 
+![Screenshot (15)](https://github.com/olaanalyst/Superstore-Products-Report/assets/141564936/437d79c2-2549-4be0-9d39-f777e95f4118)
 
 ## Wine products performance (Area chart)
 Jan with sales number of 20,555 units, Feb with sales number of 18,072 units, Mar with sales number of 18,588 units, Apr with sales number of 11,881 units, May with sales number of 20,915 units, Jun with sales number of 16,171 units, Jul with sales number of 6,204 units, Aug with sales number of 1,330 units, Sept with ales number of 2,610 units, Oct with sales number of 4,877 units, Nov with sales number of 4,016 units, Dec with sales number of 6,451 units.
 Analyzing the performance of wine products reveals noteworthy trends throughout the year. January starts strong with 20,555 units, followed by a slight dip in February (18,072 units). March sees a rebound with 18,588 units, and May marks the peak at 2,0915 units. The summer months experience a decline, hitting the lowest point in August 1,330 units. However, sales recover in the following months, culminating in a peak during the holiday season in December 6,451 units. Understanding these fluctuations provides insights for inventory management and targeted  marketing strategies, considering seasonal variations.
 
-
-
+![Screenshot (14)](https://github.com/olaanalyst/Superstore-Products-Report/assets/141564936/0611e014-d7a6-4241-a4b3-d84b04de502c)
