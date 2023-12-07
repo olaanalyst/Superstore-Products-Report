@@ -40,7 +40,7 @@ The Key Performance Indicators for the Superstore from January 2014 to December 
 NOV with sales number of 244 units, Aug with sales number of 280 units, sept with sales number 599 units, Oct with sales number of 977 units, July with sales number of 1,004 units, Dec with sales number of 1,097 units, Mar with sales number of 1,729 units, Apr with sales number of 1,999 units, Jun with sales number of 2,338 units, May with sales number of 2,738 units, Jam with sales number of 3,108 units. 
 The fish product's performance across the months display a diverse sales pattern. Starting strong in January with 3,108 units, the Sales fluctuated throughout the year reaching a low of 244 units in November. Noteworthy increases were observed from july to December, peaking at 2,600 units in May and 2,738 units in february. Including all months in the analysis provides a comprehensive overview of the product's performance, enabling a thorough understanding of seasonal trends and potential areas for optimization.  
  
-![Screenshot (12)](https://github.com/olaanalyst/Superstore-Products-Report/assets/141564936/523f44c0-3d77-457c-a63
+
 
 ## Fruit products performance (Horizontal Bar-chart from Descending to Ascending)
 Jan with sales number of 2,459 units, Feb with sales number of 1,880 units, May with sales number of 1,789 units, Jun with sales number of 1,586 units, April with sale number of 1,495 units, Dec with sales number of 1,006 units, Mar with sales number of 938 units, Jul with sales number of 622 units, Oct with sales number of 510 units, Sept with sales number of 299 units, Nov with sales number of 245 units, Aug with sales number of 147 units. 
@@ -65,17 +65,5 @@ Examining the double line chart depicting the performance of gold and meat produ
 Jan with sales number of 20,555 units, Feb with sales number of 18,072 units, Mar with sales number of 18,588 units, Apr with sales number of 11,881 units, May with sales number of 20,915 units, Jun with sales number of 16,171 units, Jul with sales number of 6,204 units, Aug with sales number of 1,330 units, Sept with ales number of 2,610 units, Oct with sales number of 4,877 units, Nov with sales number of 4,016 units, Dec with sales number of 6,451 units.
 Analyzing the performance of wine products reveals noteworthy trends throughout the year. January starts strong with 20,555 units, followed by a slight dip in February (18,072 units). March sees a rebound with 18,588 units, and May marks the peak at 2,0915 units. The summer months experience a decline, hitting the lowest point in August 1,330 units. However, sales recover in the following months, culminating in a peak during the holiday season in December 6,451 units. Understanding these fluctuations provides insights for inventory management and targeted  marketing strategies, considering seasonal variations.
 
-
-
-![Screenshot (35)](https://github.com/olaanalyst/Superstore-Products-Report/assets/141564936/2287aae1-5c1f-4152-87e3-a7cf8882ea0c)
-![Screenshot (34)](https://github.com/olaanalyst/Superstore-Products-Report/assets/141564936/f044a02d-102e-4816-8f94-12a23f6245c5)
-![Screenshot (12)](https://github.com/olaanalyst/Superstore-Products-Report/assets/141564936/523f44c0-3d77-457c-a63
-![Screenshot (16)](https://github.com/olaanalyst/Superstore-Products-Report/assets/141564936/36f46d12-388a-46ce-81b4
-![Screenshot (14)](https://github.com/olaanalyst/Superstore-Products-Report/assets/141564936/a3f4feb4-a7f6-4bd2-9deb-dbfc96716b89)
--98f5e061d73d)
-![Screenshot (15)](https://github.com/olaanalyst/Superstore-Products-Report/assets/141564936/09e5fa5a-821a-4e86-acef-62b5565b6401)
-
-6-e6f1421ad317)
-![Screenshot (13)](https://github.com/olaanalyst/Superstore-Products-Report/assets/141564936/d1d70de1-548c-491f-a336-0e9810f28cbe)
 
 
