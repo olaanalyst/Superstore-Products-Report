@@ -40,7 +40,7 @@ The Key Performance Indicators for the Superstore from January 2014 to December 
 NOV with sales number of 244 units, Aug with sales number of 280 units, sept with sales number 599 units, Oct with sales number of 977 units, July with sales number of 1,004 units, Dec with sales number of 1,097 units, Mar with sales number of 1,729 units, Apr with sales number of 1,999 units, Jun with sales number of 2,338 units, May with sales number of 2,738 units, Jam with sales number of 3,108 units. 
 The fish product's performance across the months display a diverse sales pattern. Starting strong in January with 3,108 units, the Sales fluctuated throughout the year reaching a low of 244 units in November. Noteworthy increases were observed from july to December, peaking at 2,600 units in May and 2,738 units in february. Including all months in the analysis provides a comprehensive overview of the product's performance, enabling a thorough understanding of seasonal trends and potential areas for optimization.  
  
-
+![Screenshot (12)](https://github.com/olaanalyst/Superstore-Products-Report/assets/141564936/e4a77249-4aca-4bde-9978-8b40b3ea3eaf)
 
 ## Fruit products performance (Horizontal Bar-chart from Descending to Ascending)
 Jan with sales number of 2,459 units, Feb with sales number of 1,880 units, May with sales number of 1,789 units, Jun with sales number of 1,586 units, April with sale number of 1,495 units, Dec with sales number of 1,006 units, Mar with sales number of 938 units, Jul with sales number of 622 units, Oct with sales number of 510 units, Sept with sales number of 299 units, Nov with sales number of 245 units, Aug with sales number of 147 units. 
