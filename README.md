@@ -1,11 +1,14 @@
-## Superstore products Report Analysis
+## Superstore products Dashboard Analysis
 In the context of this particular project, i meticulously undertook the task of conducting an extensive exploratory data analysis on the dataset about superstore products performance.
 
 Check sql file for query
 Check Tableau Public for visual (https://public.tableau.com/app/profile/komolafe.oladayo)
 
 ## Problem Statement
-On these Superstore products Analysis, i encountered challenges while querying the dataset and faced issues related to visualizing product performance using Tableau. These difficulties hindered the seamless progress of the analysis and require resolution for a comprehensive and accurate assesssment of the products data.
+The challenge at hand was to conduct a thorough analysis of six products within the Superstore Dashboard, spanning the entire year of 2014. The complexity arose from the need to capture nuanced trends for each product across the month.
+
+## Solution
+To address this, i opted for a strategic approach by employing six different type of charts, each tailored to a specific products. This solution allowed for a granular examination of the products performance from January to  December, providing a comprehensive and visually impactful representation of their individual dynamics. The use of varied chart types enhanced the clarity and depth of insights gained  from the analysis. 
 
 ## Brief overview of dataset
 The data used in the project was obtained from kaggle website. An excel file which contains products names, customers information e.t.c., and there are 2241 rows and 16 columns. 
@@ -29,7 +32,6 @@ Creating a data visualization dashboard involves selecting relevant metrics and 
 
 
 ## Insights
-To gain a comprehensive understanding for each products performances, i've employed different chart to represent each products.
 
 ## KPIs
 The Key Performance Indicators for the Superstore from January 2014 to December 2014 highlight a diverse product range and substantial overall sales, with a total SIX (6) products, the Superstore managed to achieve a remarkable total sales figure of 1,356,988 units. Among the product categories, Wines stands out with th highest sales at 680,816 units, followed by Meat at 373,968 units. Gold, Fish, Sweet and fruit products contribute significantly to the overall sales, with 98,609, 84,057, 60,621, and 58,917 units. Understanding these KPIs provides insights into the products mix's performance.   
@@ -53,11 +55,13 @@ Analyzing the performance of sweet products in the superstore's dashboard reveal
 
 ## Gold Meat products performance
 Jan with sales number of 2,762 units, Feb with sales number of 2,350 units, Mar with sales number of 1,681 units, Apr with sales number of 1,809 units, May with sales number of 2,550 units, Jun with sales number of 2,281 units, Jul with sales number of 1,020 units, Aug with sales number of 256 units, Sept with sales number of 412 units, Oct with sales number of 1,002 units, Nov with sales number of 491 units, Dec with sales number of 951 units.
+Gold product exhibited notable fluctuations in monthly sales throughout the yaer 2014, with peak in January at 2,762 units, there was a gradual decline until July, reaching a low of 1,020 units. Notably, August marked a significant drop to 256 units. The latter half of the year showed a resurgence, with October and December experiencing sales spikes of 1,002 and 951 units, respectively. This insightful analysis unveils distinct patterns, aiding in strategic decision-making for the Gold product in the coming year.
+
 
 
 ## Meat products performance
 Jan with sales number of 13,519 units, Feb with sales number of 11,341 units, Mar with sales number of 7,602 units, Apr with sales number of 8,620 units, May with sales number of 12,697 units, Jun with sales number of 85,444 units, Jul with sales numbers of 3,887 units, Aug with sales number of 1,743 units, Sept with sales number of 1,848 units, Oct with sales number of 2,928 units, Nov with sales number of 1,773 units, Dec with sales number of 5,061 units.
-
+The performance of the Meat products displayed dynamic patterns over the course of 2014. Starting strong in January with 13,519 units, there was a gradual decline until July reaching a low of 3,887 units. August and September marked a notable dip, hitting 1,743 and 1,848 units respectively. However, a postive shift occurred in October with sales rising to 2,928 units. The product continued to recover, with November and December showing promising figure of 1,773 and 5,061 units, repectively. This insightful analysis provides a comprehensive overview, highlighting both challenges and opportunities for stratrgic planning in the coming months.
 
 
 ## Wine products performance (Area chart)
